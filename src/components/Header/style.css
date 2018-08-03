@@ -1,0 +1,19 @@
+
+nav.nav-style.navbar.navbar-expand-md {
+    background-color: black !important;
+    font-family: 'Modern Antiqua', cursive;
+}
+a.nav-link {
+    color: white;
+}
+a.navbar-brand {
+    color: white;
+}
+.animated.rollIn {
+    animation-delay: 2ms !important;
+}
+
+i.far.fa-list-alt.toogleStyle {
+    color: white;
+    font-size: 36px;
+}

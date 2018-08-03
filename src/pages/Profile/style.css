@@ -1,0 +1,12 @@
+.sytyleProfile{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Modern Antiqua', cursive;
+}
+
+img.rounded.img-style {
+    width: 100%;
+}
+.animated.zoomInRight {
+    animation-delay: 2ms !important;
+}

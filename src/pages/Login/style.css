@@ -1,0 +1,9 @@
+.container.login-parent {
+    display: flex;
+    justify-content: center;
+    font-family: 'Modern Antiqua', cursive;
+}
+
+.m-5.p-3.shadow-lg.login-style.card {
+    width: 500px;
+}
